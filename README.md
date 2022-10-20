@@ -3,7 +3,7 @@
 
 <h2>⚡Sobre:</h2>
 
-Programa criado por mim com funcionalidade de apostar no jogo Crash do site da Blaze, com uma lógica de aposta criada por mim.
+Programa criado por mim com funcionalidade de apostar no jogo Crash do site da Blaze, com uma lógica de aposta criada por mim. Com a banca em arquivo txt.
 
 
 <h2>🛠Tecnologias:</h2>
